@@ -1,0 +1,9 @@
+7
+7
+air,0 air,0 steelconveyor,1 steelconveyor,2 steelconveyor,3 air,0 air,0 
+air,0 air,0 steelconveyor,2 steelconveyor,3 steelconveyor,2 air,0 air,0 
+steelconveyor,1 steelconveyor,1 junction,3 junction,3 crucible,0 poweredconveyor,3 poweredconveyor,3 
+router,3 steelconveyor,1 junction,3 crucible,0 junction,0 poweredconveyor,3 teleporter,3 
+steelconveyor,1 steelconveyor,1 crucible,0 junction,0 junction,0 poweredconveyor,3 poweredconveyor,3 
+air,0 air,0 steelconveyor,2 steelconveyor,2 steelconveyor,2 air,0 air,0 
+air,0 air,0 steelconveyor,2 router,3 steelconveyor,2 air,0 air,0 
